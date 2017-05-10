@@ -1,0 +1,15 @@
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\SpecFlow.Retry.Generator.SpecFlowPlugin.dll.config
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\SpecFlow.Retry.Generator.SpecFlowPlugin.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\SpecFlow.Retry.Generator.SpecFlowPlugin.pdb
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\TechTalk.SpecFlow.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\TechTalk.SpecFlow.Generator.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\TechTalk.SpecFlow.Parser.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\TechTalk.SpecFlow.Utils.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\Gherkin.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\IKVM.Runtime.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\obj\Debug\SpecFlow.Retry.Generator.SpecFlowPlugin.dll
+D:\dotnet\Hitched\specflow-retry-master\src\SpecFlow.Retry\obj\Debug\SpecFlow.Retry.Generator.SpecFlowPlugin.pdb

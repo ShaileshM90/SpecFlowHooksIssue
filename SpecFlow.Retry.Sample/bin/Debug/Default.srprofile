@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestProfile xmlns="http://www.specflow.org/schemas/plus/TestProfile/1.5">
+  <Settings projectName="SpecFlow.Retry.Sample" projectId="{abbe918c-ac74-42f7-a03a-63a5aa88947a}" />
+    <Execution stopAfterFailures="3" testThreadCount="4" testSchedulingMode="Sequential" retryCount="0" />
+  <!-- For collecting by a SpecRun server update and enable the following element. For using the 
+      collected statistics, set testSchedulingMode="Adaptive" attribute on the <Execution> element.
+    <Server serverUrl="http://specrunserver:6365" publishResults="true" />
+  -->
+  <TestAssemblyPaths>
+    <TestAssemblyPath>SpecFlow.Retry.Sample.dll</TestAssemblyPath>
+  </TestAssemblyPaths>
+  <DeploymentTransformation>
+    <Steps>
+    </Steps>
+  </DeploymentTransformation>
+</TestProfile>
